@@ -1,5 +1,5 @@
 # Sample script making use of a nested hashtable
-Set a list of sw's compliant vlan IDs. Highlight every non-compliant / missing lines from a switch config file and generate a .json/.csv file looking the table below.
+Set a list of sw's compliant vlan IDs. Highlight every non-compliant / missing lines from a switch config file and generate a .json/.csv file looking like the table below.
 
 | Switch Name |   VLAN ID |   Line 1 |         Line 2         | ... | 
 |-------------|-----------|----------|------------------------|-----|
