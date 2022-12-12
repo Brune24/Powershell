@@ -1,0 +1,14 @@
+{
+    "SW-1":  {
+                               "VLAN AP":  "1",
+                               "LINES":  [
+                                             "vlan batch 1 2 3 4",
+                                             "vlan 1",
+                                             " port hybrid tagged vlan 1 2 3 4",
+                                             " port hybrid tagged vlan 1 2 3 4"
+                                         ]
+                           },
+    "SW-2":  {
+                           "VLAN ID":  "2",
+                           "LINES":  null
+                       },
